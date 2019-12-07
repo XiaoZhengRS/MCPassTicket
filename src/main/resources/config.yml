@@ -1,0 +1,25 @@
+##MC通行证最高等级为100级
+通行证:
+  结算日期: yyyy-MM-dd HH:mm:ss
+  每级需要经验: 1000
+通行证奖励:
+  免费通行证:
+    1:
+      - give {player} 1 64
+      - give {player} 1 64
+    10:
+      - give {player} 1 64
+      - give {player} 1 64
+    100:
+      - give {player} 1 64
+      - give {player} 1 64
+  付费通行证:
+    1:
+      - give {player} 1 64
+      - give {player} 1 64
+    10:
+      - give {player} 1 64
+      - give {player} 1 64
+    100:
+      - give {player} 1 64
+      - give {player} 1 64

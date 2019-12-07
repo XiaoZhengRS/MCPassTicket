@@ -1,0 +1,7 @@
+name: MCPassTicket
+version: ${project.version}
+main: com.xiaozhengkeji.mcpassticket.MCPassTicket
+authors: [XiaoZheng]
+description: QQ1419158026
+commands:
+  pass:
